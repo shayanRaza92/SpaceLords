@@ -1,1 +1,4 @@
-The compilation code for this program is given by: g++ main.cpp Enemy.cpp Bullet.cpp Game.cpp Player.cpp welcomescreen.cpp Villain.cpp GameOverScreen.cpp PowerUps.cpp -I"C:\mingw_dev_lib\include" -L"C:\mingw_dev_lib\lib" -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o main.exe
+Spacelords is a game developed in the genre of arcade space shooter, where users are given
+control of a spaceship and must avoid their enemies and navigate barriers with playful design
+within an environment. Often, the player is expected to avoid collisions while aiming at the
+enemies to gain more points.
