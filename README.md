@@ -53,5 +53,3 @@ Contributions are welcome! If you want to add new enemy types, power-ups, or lev
 4.  Push to the Branch (`git push origin feature/NewShip`).
 5.  Open a Pull Request.
 
----
-*Built with passion by [Shayan Raza](https://github.com/shayanRaza92)*
